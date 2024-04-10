@@ -13,7 +13,6 @@ export default function Home() {
       <Skills />
       <Experience />
       <About />
-      <SectionDivider />
       <Contact />
     </main>
   );
